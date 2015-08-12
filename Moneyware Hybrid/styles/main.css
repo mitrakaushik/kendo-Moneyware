@@ -261,8 +261,8 @@ input[type='week'] {
 }
 
 #friendsApp .app-name {
-  width: 127px;
-  height: 119px;
+  width: 250px;
+  height: 130px;
   margin: 1.5em auto;
   text-indent: -9999px;
   background: transparent url(images/logo-friends.png) no-repeat 0 0;
@@ -663,3 +663,52 @@ input[type='week'] {
     background-image: url(images/logo-adfs@2x.png);
   }
 }
+
+.header{color:#c7c7c7;
+font-size:14px;
+}
+
+.flt{float:left;}
+
+.frt{float:right;}
+
+.wrapper{margin:1%; padding:1%;}
+
+.text{color:#333;}
+.clr{clear:both;}
+
+h1{color:#0066cc; font-size:24px;}
+
+h2{color:#000; font-size:18px;}
+
+h3{color:#000; font-size:16px;}
+
+#sel1{width:50%;}
+
+.mrT20{margin-top:20px;}
+
+
+select {
+    padding:3px;
+    margin: 0;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:4px;
+    -webkit-box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    -moz-box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    background: #f8f8f8;
+    color:#888;
+    border:none;
+    outline:none;
+    display: inline-block;
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+    cursor:pointer;
+    background:#444;
+}
+
+h4{color:#7da137;}
+
+

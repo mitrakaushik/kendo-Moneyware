@@ -57,7 +57,7 @@ app.Login = (function () {
 
         // Authenticate to use Backend Services as a particular user
         var login = function () {
-
+app.mobileApp.navigate('views/activitiesView.html');
             var username = $loginUsername.val();
             var password = $loginPassword.val();
 
